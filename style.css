@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-image: url("into_the_pit.png");
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+  margin-top: 25px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.video {
+  margin-top: 30px;
+  text-align: center;
+}
+.frame {
+  border: 20px solid red;
+  align-items: center;
+}
+hr {
+  height: 10px;
+  background-color: red;
+}
+
+h2 {
+  background-image: url("preto_branco.jpg");
+  background-size: 120px;
+}
